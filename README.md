@@ -1,2 +1,2 @@
 # Projeto de Prática Profissional em ADS 
-# Frupo: projeto_sistema
+# Grupo: projeto_sistema
