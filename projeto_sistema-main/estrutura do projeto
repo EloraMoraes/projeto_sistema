@@ -1,0 +1,6 @@
+MeuProjeto/
+├── src/
+│   ├── main.py
+│   └── funcoes.py
+├── README.md
+└── LICENSE
